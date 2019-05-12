@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Basics": ["basics/basics-install"],
+    "API Reference": ["api/api-introduction", "api/api-types"],
+    "Contributing": ["dev/dev-intro"]
+  }
+}
