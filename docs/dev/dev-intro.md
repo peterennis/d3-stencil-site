@@ -21,13 +21,13 @@ $ cd d3-stencil
 - Install the dependencies
 
 ```bash
-$ yarn
+$ npm i
 ```
 
 - Start the project to check it works without any problems.
 
 ```bash
-$ yarn start
+$ npm start
 ```
 
 ## Conventions
