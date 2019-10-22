@@ -15,7 +15,7 @@ const siteConfig = {
   tagline: 'Framework-agnostic, simple.',
   url: 'https://d3-stencil.dev',
   baseUrl: '/',
-  projectName: 'd3-stencil',
+  projectName: 'd3-stencil-site',
   organizationName: 'edgarordonez',
   cname: 'd3-stencil.dev',
 
